@@ -1,5 +1,4 @@
-# edge-ai-activity-recognition
-A lightweight Edge AI model for human activity recognition using accelerometer data.
+
 # Human Activity Recognition using Edge AI & TensorFlow Lite
 
 This project focuses on real-time human activity recognition (HAR) using accelerometer data processed on edge devices. A lightweight deep learning model is trained and converted to TensorFlow Lite for deployment on mobile or embedded systems.
